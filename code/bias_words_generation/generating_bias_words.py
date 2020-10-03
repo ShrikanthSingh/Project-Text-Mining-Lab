@@ -1,6 +1,4 @@
-'''
-PHASE RESPONSIBILITY - SHRIKANTH SINGH BALAJI SINGH - 87683
-'''
+
 import itertools
 import multiprocessing
 import random

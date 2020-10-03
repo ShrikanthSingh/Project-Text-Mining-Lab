@@ -1,6 +1,4 @@
-"""
-Phase responsibility: Harshil Jagadishbhai Darji - 87647
-"""
+
 
 import multiprocessing
 from timeit import default_timer as timer
